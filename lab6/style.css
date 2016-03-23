@@ -1,0 +1,47 @@
+body {
+  background-color: #e8e8e8;
+}
+
+page-header {
+  orientation: center;
+}
+
+.jumbotron {
+    background-image: url(coworking.jpg)
+}
+
+.box {
+  border: 1px;
+  border-color: black;
+  background: white;
+  margin: 0 50 0 0;
+}
+
+btn btn-default {
+  color: grey;
+}
+
+h1 {
+  color: black;
+}
+
+h2 {
+  weight: 900px;
+}
+
+.grey {
+  color: grey;
+}
+
+.yellow{
+  color: yellow;
+}
+
+button {
+  color: grey;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
